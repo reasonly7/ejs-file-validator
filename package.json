@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@types/node": "^22.10.0",
+    "ignore": "^6.0.2",
     "nodemon": "^3.1.7",
     "typescript": "~5.6.2",
     "vite": "^6.0.0",
